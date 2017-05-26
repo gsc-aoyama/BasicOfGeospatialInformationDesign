@@ -1,0 +1,2 @@
+# BasicOfGeospatialInformationDesign
+空間情報デザイン基礎用リポジトリ
